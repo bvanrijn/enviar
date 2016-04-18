@@ -9,7 +9,7 @@ Telegram bot subscribers.
 2. Valid API Key from [@BotFather](https://telegram.me/BotFather) on Telegram
 3. `pip install python-telegram-bot`
 
-**Note:** `enviar-nox` does not require `python-qt4`, other dependencies
+**Note:** `enviar-nox.py` does not require `python-qt4`, all other dependencies
 remain the same.
 
 # License

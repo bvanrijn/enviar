@@ -1,4 +1,4 @@
-# Why `enviar`?
+# Why?
 
 I made *enviar* because I wanted an easy and quick way to send messages to
 Telegram bot subscribers.
